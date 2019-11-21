@@ -20,7 +20,7 @@ const titleCased = (inp) => {
   });
 
 }
-console.log(titleCased);
+return titleCased;
 // const titleCased = (input) => {
 //   return tutorials.map( line => {
 //     let tokens = line.split(' ')
