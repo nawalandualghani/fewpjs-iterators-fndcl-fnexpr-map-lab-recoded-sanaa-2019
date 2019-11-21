@@ -12,5 +12,8 @@ const tutorials = [
 ];
 
 const titleCased = tutorials.map(function()) => {
-  return tutorials
+  
 }
+const titleCased = tutorials.map(function (tutorials) {
+return tutorials
+});
