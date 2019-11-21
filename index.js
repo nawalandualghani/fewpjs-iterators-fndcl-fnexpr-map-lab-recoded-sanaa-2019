@@ -15,5 +15,6 @@ const titleCased = tutorials.map(function()) => {
 
 }
 const titleCased = tutorials.map(function (tutorials) {
+
 return tutorials
 });
