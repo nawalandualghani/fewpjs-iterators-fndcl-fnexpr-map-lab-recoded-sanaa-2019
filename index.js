@@ -16,7 +16,7 @@ const titleCased = (in) => {
     let a=li.split('');
     let upercase= a.map(b=>b.charAt(0).toUpperCase()+b.slice(1))
     let arr=upercase.joint('');
-    console.log(arr); 
+    console.log(arr);
   });
 }
 // const titleCased = (input) => {
