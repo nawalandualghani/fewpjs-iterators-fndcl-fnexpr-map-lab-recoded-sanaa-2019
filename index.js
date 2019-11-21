@@ -18,6 +18,7 @@ const titleCased = (inp) => {
     let arr=upercase.joint('');
     return arr;
   });
+  console.log(titleCased);
 }
 // const titleCased = (input) => {
 //   return tutorials.map( line => {
